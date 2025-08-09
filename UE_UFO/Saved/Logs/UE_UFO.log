@@ -14154,3 +14154,54 @@ Sampler Limit: 32
 [2025.08.09-08.42.59:246][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
 [2025.08.09-08.43.00:714][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
 [2025.08.09-08.43.00:977][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.08.09-08.44.31:864][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.09-08.44.31:908][343]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bullet] ([2] browsable assets)...
+[2025.08.09-08.44.31:918][343]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bullet.BP_Bullet]
+[2025.08.09-08.44.31:918][343]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bullet]
+[2025.08.09-08.44.31:918][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bullet" FILE="../../../../../../Users/User/Desktop/UE_250719/UE_UFO/Content/Blueprints/BP_Bullet.uasset" SILENT=true
+[2025.08.09-08.44.31:922][343]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Bullet
+[2025.08.09-08.44.31:922][343]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/UE_UFO/Saved/BP_BulletA5A82FBC40F779A9C41019A332EC9E97.tmp' to '../../../../../../Users/User/Desktop/UE_250719/UE_UFO/Content/Blueprints/BP_Bullet.uasset'
+[2025.08.09-08.44.31:928][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.719 ms (total: 11.9 sec)
+[2025.08.09-08.44.31:994][343]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.09-08.44.31:994][343]LogContentValidation: Enabled validators:
+[2025.08.09-08.44.31:994][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.09-08.44.31:994][343]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.09-08.44.31:994][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.09-08.44.31:994][343]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.09-08.44.31:994][343]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.09-08.44.31:994][343]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.09-08.44.31:994][343]AssetCheck: /Game/Blueprints/BP_Bullet 에셋 유효성 검사 중
+[2025.08.09-08.44.55:584][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.09-08.44.55:647][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Bullet] ([2] browsable assets)...
+[2025.08.09-08.44.55:647][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bullet]
+[2025.08.09-08.44.55:647][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bullet" FILE="../../../../../../Users/User/Desktop/UE_250719/UE_UFO/Content/Blueprints/BP_Bullet.uasset" SILENT=true
+[2025.08.09-08.44.55:651][816]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Bullet
+[2025.08.09-08.44.55:651][816]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/UE_UFO/Saved/BP_Bullet9D63085D48FAC4FCC140458585177489.tmp' to '../../../../../../Users/User/Desktop/UE_250719/UE_UFO/Content/Blueprints/BP_Bullet.uasset'
+[2025.08.09-08.44.55:656][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.989 ms (total: 11.9 sec)
+[2025.08.09-08.44.55:712][816]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.09-08.44.55:712][816]LogContentValidation: Enabled validators:
+[2025.08.09-08.44.55:712][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.09-08.44.55:712][816]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.09-08.44.55:712][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.09-08.44.55:712][816]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.09-08.44.55:712][816]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.09-08.44.55:712][816]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.09-08.44.55:712][816]AssetCheck: /Game/Blueprints/BP_Bullet 에셋 유효성 검사 중
+[2025.08.09-08.44.58:751][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.09-08.44.58:806][126]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bullet] ([2] browsable assets)...
+[2025.08.09-08.44.58:817][126]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bullet.BP_Bullet]
+[2025.08.09-08.44.58:817][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bullet]
+[2025.08.09-08.44.58:817][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bullet" FILE="../../../../../../Users/User/Desktop/UE_250719/UE_UFO/Content/Blueprints/BP_Bullet.uasset" SILENT=true
+[2025.08.09-08.44.58:820][126]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Bullet
+[2025.08.09-08.44.58:820][126]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/UE_UFO/Saved/BP_Bullet13A9A8F4468455D71ADDC7A9AA5B4413.tmp' to '../../../../../../Users/User/Desktop/UE_250719/UE_UFO/Content/Blueprints/BP_Bullet.uasset'
+[2025.08.09-08.44.58:827][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.106 ms (total: 12.0 sec)
+[2025.08.09-08.44.58:892][126]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.09-08.44.58:893][126]LogContentValidation: Enabled validators:
+[2025.08.09-08.44.58:893][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.09-08.44.58:893][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.09-08.44.58:893][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.09-08.44.58:893][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.09-08.44.58:893][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.09-08.44.58:893][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.09-08.44.58:893][126]AssetCheck: /Game/Blueprints/BP_Bullet 에셋 유효성 검사 중
+[2025.08.09-08.44.59:799][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
