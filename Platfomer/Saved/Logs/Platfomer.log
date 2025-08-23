@@ -1541,3 +1541,757 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.23-06.02.13:854][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.23-06.02.13:854][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.23-06.02.13:854][ 50]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.04.40:278][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.08.23-06.04.41:066][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.04.41:116][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.04.41:158][ 95]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.08.23-06.04.41:158][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.04.41:158][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.04.41:161][ 95]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.04.41:161][ 95]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_Player0BF9C56F49D69A1999FB1B819FA3C141.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.04.41:169][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.154 ms (total: 287.560 ms)
+[2025.08.23-06.04.41:218][ 95]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.04.41:218][ 95]LogContentValidation: Enabled validators:
+[2025.08.23-06.04.41:218][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.04.41:218][ 95]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.04.41:218][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.04.41:218][ 95]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.04.41:218][ 95]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.04.41:218][ 95]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.04.41:218][ 95]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.06.02:604][648]LogAutomationController: Ignoring very large delta of 4.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.23-06.06.14:972][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.06.15:035][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.06.15:047][624]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.08.23-06.06.15:048][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.06.15:048][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.06.15:052][624]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.06.15:052][624]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_Player498FDAE74E7A7F6E4C3FDCAA3D007176.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.06.15:061][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.816 ms (total: 377.376 ms)
+[2025.08.23-06.06.15:101][624]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.06.15:102][624]LogContentValidation: Enabled validators:
+[2025.08.23-06.06.15:102][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.06.15:102][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.06.15:102][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.06.15:102][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.06.15:102][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.06.15:102][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.06.15:102][624]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.06.18:474][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.06.18:533][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.06.18:533][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.06.18:533][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.06.18:535][946]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.06.18:535][946]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_Player30F5BFE5456B800CD91E4FB07EEBE940.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.06.18:545][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.658 ms (total: 449.035 ms)
+[2025.08.23-06.06.18:601][946]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.06.18:601][946]LogContentValidation: Enabled validators:
+[2025.08.23-06.06.18:601][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.06.18:601][946]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.06.18:601][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.06.18:601][946]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.06.18:601][946]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.06.18:601][946]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.06.18:601][946]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.06.20:021][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.06.20:084][ 92]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.06.20:084][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.06.20:084][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.06.20:087][ 92]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.06.20:087][ 92]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_Player74F12B524B238E7BB032A68A4E6B5FCF.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.06.20:095][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.506 ms (total: 522.541 ms)
+[2025.08.23-06.06.20:133][ 92]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.06.20:133][ 92]LogContentValidation: Enabled validators:
+[2025.08.23-06.06.20:133][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.06.20:133][ 92]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.06.20:133][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.06.20:133][ 92]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.06.20:133][ 92]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.06.20:133][ 92]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.06.20:133][ 92]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.06.30:544][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.08.23-06.06.50:673][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.06.50:733][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.06.50:743][194]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.08.23-06.06.50:743][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.06.50:743][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.06.50:746][194]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.06.50:746][194]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_Player603C74FC4C384CA7EE1E6E91154D7E79.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.06.50:752][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.236 ms (total: 601.778 ms)
+[2025.08.23-06.06.50:782][194]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.06.50:783][194]LogContentValidation: Enabled validators:
+[2025.08.23-06.06.50:783][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.06.50:783][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.06.50:783][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.06.50:783][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.06.50:783][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.06.50:783][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.06.50:783][194]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.06.51:817][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.08.23-06.06.52:770][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.06.52:800][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.06.52:837][383]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.08.23-06.06.52:837][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.06.52:837][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.06.52:840][383]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.06.52:840][383]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_Player42C0F5694736E52E63EE809642F3D314.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.06.52:846][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.244 ms (total: 678.022 ms)
+[2025.08.23-06.06.52:901][383]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.06.52:901][383]LogContentValidation: Enabled validators:
+[2025.08.23-06.06.52:901][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.06.52:901][383]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.06.52:901][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.06.52:901][383]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.06.52:901][383]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.06.52:901][383]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.06.52:901][383]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.06.53:070][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.06.53:117][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.06.53:117][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.06.53:117][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.06.53:119][397]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.06.53:120][397]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_PlayerCA5002F0430EB078B7EEDAA1938D8827.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.06.53:128][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.303 ms (total: 736.326 ms)
+[2025.08.23-06.06.53:184][397]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.06.53:184][397]LogContentValidation: Enabled validators:
+[2025.08.23-06.06.53:184][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.06.53:184][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.06.53:184][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.06.53:184][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.06.53:184][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.06.53:184][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.06.53:185][397]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.06.53:394][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.06.53:451][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.06.53:451][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.06.53:451][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.06.53:453][418]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.06.53:453][418]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_PlayerFDC004D9478752AF3829779E7FF99632.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.06.53:459][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.720 ms (total: 802.047 ms)
+[2025.08.23-06.06.53:517][418]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.06.53:517][418]LogContentValidation: Enabled validators:
+[2025.08.23-06.06.53:517][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.06.53:517][418]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.06.53:517][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.06.53:517][418]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.06.53:517][418]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.06.53:517][418]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.06.53:517][418]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.06.53:718][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.06.53:768][437]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.06.53:768][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.06.53:768][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.06.53:772][437]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.06.53:772][437]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_PlayerAB4551034C9FF9082132FFB0D7B54625.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.06.53:781][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.512 ms (total: 865.559 ms)
+[2025.08.23-06.06.53:818][437]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.06.53:818][437]LogContentValidation: Enabled validators:
+[2025.08.23-06.06.53:818][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.06.53:818][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.06.53:818][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.06.53:818][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.06.53:818][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.06.53:818][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.06.53:818][437]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.06.54:069][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.06.54:100][458]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.06.54:100][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.06.54:100][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.06.54:103][458]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.06.54:103][458]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_Player28C3E6FD4384FD050F401F94EDEFAF9B.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.06.54:111][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.352 ms (total: 906.911 ms)
+[2025.08.23-06.06.54:166][458]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.06.54:166][458]LogContentValidation: Enabled validators:
+[2025.08.23-06.06.54:166][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.06.54:166][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.06.54:166][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.06.54:166][458]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.06.54:166][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.06.54:166][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.06.54:167][458]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.06.54:533][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.08.23-06.06.55:562][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.06.55:600][582]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.06.55:639][582]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.08.23-06.06.55:639][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.06.55:639][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.08.23-06.06.55:642][582]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.08.23-06.06.55:643][582]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_Player6C8EBA58491F7A204A03718EC1CDCBE9.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_Player.uasset'
+[2025.08.23-06.06.55:650][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.074 ms (total: 993.986 ms)
+[2025.08.23-06.06.55:701][582]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.06.55:701][582]LogContentValidation: Enabled validators:
+[2025.08.23-06.06.55:701][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.06.55:701][582]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.06.55:701][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.06.55:701][582]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.06.55:701][582]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.06.55:701][582]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.06.55:701][582]AssetCheck: /Game/Blueprints/BP_Player 에셋 유효성 검사 중
+[2025.08.23-06.07.13:030][983]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.23-06.07.14:326][983]LogSlate: Window '새 레벨' being destroyed
+[2025.08.23-06.07.41:986][873]LogSlate: Window '새 레벨' being destroyed
+[2025.08.23-06.07.41:994][873]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.23-06.07.42:035][873]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.23-06.07.42:035][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.23-06.07.42:035][873]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.08.23-06.07.42:065][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.23-06.07.42:135][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.08.23-06.07.42:141][873]LogStreaming: Display: FlushAsyncLoading(680): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.23-06.07.42:149][873]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2025.08.23-06.07.42:149][873]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_2
+[2025.08.23-06.07.42:168][873]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.23-06.07.42:192][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.23-06.07.42:193][873]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.23-06.07.42:194][873]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.131ms.
+[2025.08.23-06.07.42:252][873]LogAutomationController: Ignoring very large delta of 9.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.23-06.07.43:133][875]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.23-06.08.06:272][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.08.23-06.08.07:501][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.08.23-06.08.09:484][409]LogSlate: Window '다른 이름으로 레벨 저장' being destroyed
+[2025.08.23-06.08.12:593][489]LogSlate: Window '다른 이름으로 레벨 저장' being destroyed
+[2025.08.23-06.08.19:194][526]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.08.23-06.08.19:211][526]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.08.23-06.08.19:217][526]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.08.23-06.08.21:449][526]LogContentBrowser: Attempting asset rename: 새 폴더 -> Levels
+[2025.08.23-06.08.21:449][526]LogContentBrowser: End creating deferred item 새 폴더
+[2025.08.23-06.08.57:082][526]LogSlate: Window '다른 이름으로 레벨 저장' being destroyed
+[2025.08.23-06.08.57:159][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Stage_1" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Levels/Stage_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.23-06.08.57:191][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.08.23-06.08.57:200][526]LogSavePackage: Moving output files for package: /Game/Levels/Stage_1
+[2025.08.23-06.08.57:200][526]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/Stage_167A78630430A03464116F39A43715BDD.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Levels/Stage_1.umap'
+[2025.08.23-06.08.57:223][526]LogFileHelpers: Saving map 'Stage_1' took 0.132
+[2025.08.23-06.08.57:223][526]Cmd: MAP LOAD FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Levels/Stage_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.23-06.08.57:231][526]LogWorld: UWorld::CleanupWorld for Stage_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.23-06.08.57:231][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.23-06.08.57:255][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.23-06.08.57:258][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.08.23-06.08.57:259][526]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.23-06.08.57:261][526]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage_1'.
+[2025.08.23-06.08.57:261][526]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage_1
+[2025.08.23-06.08.57:279][526]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.23-06.08.57:300][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.08.23-06.08.57:304][526]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.23-06.08.57:304][526]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.107ms.
+[2025.08.23-06.08.57:369][526]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.08.57:369][526]LogContentValidation: Enabled validators:
+[2025.08.23-06.08.57:369][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.08.57:369][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.08.57:369][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.08.57:369][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.08.57:369][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.08.57:369][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.08.57:369][526]AssetCheck: /Game/Levels/Stage_1 에셋 유효성 검사 중
+[2025.08.23-06.08.57:387][526]LogAutomationController: Ignoring very large delta of 44.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.23-06.08.58:154][528]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.23-06.08.58:338][531]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.08.23-06.09.39:812][ 97]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: ================================================
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Total job queries 1,325, among them cache hits 8 (0.60%), DDC hits 137 (10.34%), Duplicates 209 (15.77%)
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Tracking 1,108 distinct input hashes that result in 867 distinct outputs (78.25%)
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: RAM used: 604.46 KiB of 819.20 MiB budget. Usage: 0.07%
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Shaders Compiled: 971
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Jobs assigned 971, completed 971 (100%)
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Average time worker was idle: 89.91 s
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Time job spent in pending queue: average 68.21 s, longest 164.93 s
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Job execution time: average 13.27 s, max 44.09 s
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Job life time (pending + execution): average 81.48 s, max 165.85
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Shader code size: average 12.244 KiB, min 1.199 KiB, max 49.212 KiB
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 172.24 s
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.89%
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Jobs were issued in 130 batches (only local compilation was used), average 7.47 jobs/batch
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Average processing rate: 5.64 jobs/sec
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Total thread time: 1,307.24 s
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Total thread preprocess time: 33.698 s
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Percentage time preprocessing: 2.58%
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Effective parallelization: 7.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.86 sec, max 3.86 sec, min 3.86 sec)
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.48 sec, max 3.48 sec, min 3.48 sec)
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  260 times, average 3.18 sec, max 8.88 sec, min 0.00 sec)
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.83 sec, max 2.83 sec, min 2.83 sec)
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display:                               FLightFunctionRayTracingShader (compiled    1 times, average 2.43 sec, max 2.43 sec, min 2.43 sec)
+[2025.08.23-06.10.09:101][575]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 63.26% of total time (compiled  260 times, average 3.18 sec, max 8.88 sec, min 0.00 sec)
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display:                                               FHWRasterizeMS - 4.69% of total time (compiled   60 times, average 1.02 sec, max 1.48 sec, min 0.63 sec)
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.41% of total time (compiled   22 times, average 2.02 sec, max 2.71 sec, min 1.14 sec)
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display:                                               FHWRasterizeVS - 2.68% of total time (compiled   42 times, average 0.84 sec, max 1.13 sec, min 0.53 sec)
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display:                                 FTranslucentLightingInjectPS - 2.20% of total time (compiled   64 times, average 0.45 sec, max 1.00 sec, min 0.11 sec)
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display: === Material stats ===
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display: Materials Translated:    134
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display: Material Translation Only: 0.04 s (24%)
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.08.23-06.10.09:102][575]LogShaderCompilers: Display: ================================================
+[2025.08.23-06.11.17:726][654]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.08.23-06.11.17:749][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.23-06.11.17:758][654]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.08.23-06.11.17:759][654]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.08.23-06.11.17:763][654]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Stage_1
+[2025.08.23-06.11.17:769][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005751s)
+[2025.08.23-06.11.17:769][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Stage_1.Stage_1 to /Game/Levels/UEDPIE_0_Stage_1.Stage_1 (0.005801s)
+[2025.08.23-06.11.17:791][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.08.23-06.11.17:794][654]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage_1
+[2025.08.23-06.11.17:797][654]LogPlayLevel: PIE: World Init took: (0.003980s)
+[2025.08.23-06.11.17:800][654]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.08.23-06.11.17:800][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.23-06.11.17:800][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.23-06.11.17:800][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.23-06.11.17:800][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.23-06.11.17:800][654]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.23-06.11.17:800][654]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.23-06.11.17:800][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.23-06.11.17:800][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.23-06.11.17:800][654]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.23-06.11.17:800][654]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.23-06.11.17:800][654]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.23-06.11.17:802][654]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.23-06.11.17:828][654]LogAudioMixer: Display: Using Audio Hardware Device EPSON PJ(NVIDIA High Definition Audio)
+[2025.08.23-06.11.17:829][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.23-06.11.17:829][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.23-06.11.17:829][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.23-06.11.17:829][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.08.23-06.11.17:829][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.08.23-06.11.17:833][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.08.23-06.11.17:833][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.08.23-06.11.17:833][654]LogInit: FAudioDevice initialized with ID 2.
+[2025.08.23-06.11.17:833][654]LogAudio: Display: Audio Device (ID: 2) registered with world 'Stage_1'.
+[2025.08.23-06.11.17:833][654]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.23-06.11.17:847][654]LogLoad: Game class is 'GameModeBase'
+[2025.08.23-06.11.17:850][654]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Stage_1.Stage_1 up for play (max tick rate 0) at 2025.08.23-15.11.17
+[2025.08.23-06.11.17:852][654]LogWorld: Bringing up level for play took: 0.003643
+[2025.08.23-06.11.17:856][654]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.08.23-06.11.17:924][654]PIE: 서버가 로그인했습니다.
+[2025.08.23-06.11.17:926][654]PIE: 에디터에서 플레이 총 시작 시간 0.192초입니다.
+[2025.08.23-06.11.24:561][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.23-06.11.24:561][979]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Stage_1
+[2025.08.23-06.11.24:563][979]LogWorld: UWorld::CleanupWorld for Stage_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.23-06.11.24:563][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.23-06.11.24:570][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.23-06.11.24:576][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.23-06.11.24:597][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.23-06.11.24:597][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.23-06.11.24:597][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.08.23-06.11.24:599][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.08.23-06.11.24:607][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.08.23-06.11.24:740][980]Cmd: SELECT NONE
+[2025.08.23-06.11.24:759][980]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.08.23-06.11.58:806][557]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.08.23-06.11.58:817][557]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.23-06.11.58:827][557]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.23-06.11.58:828][557]LogAutomationController: Ignoring very large delta of 11.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.23-06.11.58:837][558]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.23-06.12.01:840][713]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GameMode
+[2025.08.23-06.12.01:849][713]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.23-06.12.26:347][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.08.23-06.12.26:355][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.12.26:417][976]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2025.08.23-06.12.26:417][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2025.08.23-06.12.26:417][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2025.08.23-06.12.26:419][976]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2025.08.23-06.12.26:419][976]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_GameMode81EB85184BFEA0F5EBD701BBCBA185F8.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset'
+[2025.08.23-06.12.26:435][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.691 ms (total: 1.07 sec)
+[2025.08.23-06.12.26:502][976]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.12.26:502][976]LogContentValidation: Enabled validators:
+[2025.08.23-06.12.26:502][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.12.26:502][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.12.26:502][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.12.26:502][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.12.26:502][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.12.26:502][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.12.26:502][976]AssetCheck: /Game/Blueprints/BP_GameMode 에셋 유효성 검사 중
+[2025.08.23-06.12.26:824][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2025.08.23-06.12.27:176][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.08.23-06.12.27:451][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.12.27:534][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2025.08.23-06.12.27:534][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2025.08.23-06.12.27:534][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2025.08.23-06.12.27:537][ 29]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2025.08.23-06.12.27:537][ 29]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_GameModeF216831C47AF871A984F0C92FCB4670C.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset'
+[2025.08.23-06.12.27:545][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.111 ms (total: 1.16 sec)
+[2025.08.23-06.12.27:603][ 29]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.12.27:603][ 29]LogContentValidation: Enabled validators:
+[2025.08.23-06.12.27:603][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.12.27:603][ 29]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.12.27:603][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.12.27:603][ 29]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.12.27:603][ 29]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.12.27:604][ 29]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.12.27:604][ 29]AssetCheck: /Game/Blueprints/BP_GameMode 에셋 유효성 검사 중
+[2025.08.23-06.12.27:739][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.12.27:818][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2025.08.23-06.12.27:819][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2025.08.23-06.12.27:819][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2025.08.23-06.12.27:821][ 38]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2025.08.23-06.12.27:822][ 38]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_GameMode2BD750A043F91E6391541DBAB0829579.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset'
+[2025.08.23-06.12.27:829][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.233 ms (total: 1.25 sec)
+[2025.08.23-06.12.27:887][ 38]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.12.27:887][ 38]LogContentValidation: Enabled validators:
+[2025.08.23-06.12.27:887][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.12.27:887][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.12.27:887][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.12.27:887][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.12.27:887][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.12.27:887][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.12.27:887][ 38]AssetCheck: /Game/Blueprints/BP_GameMode 에셋 유효성 검사 중
+[2025.08.23-06.12.28:050][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.12.28:134][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2025.08.23-06.12.28:134][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2025.08.23-06.12.28:134][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2025.08.23-06.12.28:136][ 48]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2025.08.23-06.12.28:137][ 48]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_GameModeBC2578354672536D7D4E66A7E1DEDF19.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset'
+[2025.08.23-06.12.28:149][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.336 ms (total: 1.35 sec)
+[2025.08.23-06.12.28:152][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.12.28:198][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2025.08.23-06.12.28:198][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2025.08.23-06.12.28:198][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2025.08.23-06.12.28:201][ 48]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2025.08.23-06.12.28:201][ 48]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_GameMode6A925E7440361AFC34944E98CB77BBBE.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset'
+[2025.08.23-06.12.28:209][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.121 ms (total: 1.41 sec)
+[2025.08.23-06.12.28:266][ 48]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.12.28:266][ 48]LogContentValidation: Enabled validators:
+[2025.08.23-06.12.28:266][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.12.28:266][ 48]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.12.28:266][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.12.28:266][ 48]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.12.28:266][ 48]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.12.28:266][ 48]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.12.28:266][ 48]AssetCheck: /Game/Blueprints/BP_GameMode 에셋 유효성 검사 중
+[2025.08.23-06.12.28:341][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.12.28:432][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2025.08.23-06.12.28:432][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2025.08.23-06.12.28:434][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2025.08.23-06.12.28:436][ 54]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2025.08.23-06.12.28:436][ 54]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_GameMode5BE7B74C4B72F7933498269EA69E29CA.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset'
+[2025.08.23-06.12.28:443][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.662 ms (total: 1.51 sec)
+[2025.08.23-06.12.28:501][ 54]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.12.28:501][ 54]LogContentValidation: Enabled validators:
+[2025.08.23-06.12.28:501][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.12.28:501][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.12.28:501][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.12.28:501][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.12.28:501][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.12.28:501][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.12.28:501][ 54]AssetCheck: /Game/Blueprints/BP_GameMode 에셋 유효성 검사 중
+[2025.08.23-06.12.28:605][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.12.28:684][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2025.08.23-06.12.28:684][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2025.08.23-06.12.28:684][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2025.08.23-06.12.28:686][ 61]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2025.08.23-06.12.28:686][ 61]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_GameModeBF8F25B9472C51DB02E8CEBAC1EEF747.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset'
+[2025.08.23-06.12.28:696][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.025 ms (total: 1.60 sec)
+[2025.08.23-06.12.28:751][ 61]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.12.28:751][ 61]LogContentValidation: Enabled validators:
+[2025.08.23-06.12.28:751][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.12.28:751][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.12.28:751][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.12.28:751][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.12.28:751][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.12.28:751][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.12.28:752][ 61]AssetCheck: /Game/Blueprints/BP_GameMode 에셋 유효성 검사 중
+[2025.08.23-06.12.28:829][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.12.28:915][ 67]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2025.08.23-06.12.28:915][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2025.08.23-06.12.28:915][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2025.08.23-06.12.28:917][ 67]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2025.08.23-06.12.28:918][ 67]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_GameModeCD4C5A044EF23CD3B5AA4A99675F096D.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset'
+[2025.08.23-06.12.28:930][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.431 ms (total: 1.70 sec)
+[2025.08.23-06.12.28:984][ 67]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.12.28:985][ 67]LogContentValidation: Enabled validators:
+[2025.08.23-06.12.28:985][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.12.28:985][ 67]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.12.28:985][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.12.28:985][ 67]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.12.28:985][ 67]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.12.28:985][ 67]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.12.28:985][ 67]AssetCheck: /Game/Blueprints/BP_GameMode 에셋 유효성 검사 중
+[2025.08.23-06.12.29:208][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.08.23-06.12.29:560][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.08.23-06.12.32:802][272]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2025.08.23-06.12.32:804][272]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.08.23-06.15.56:595][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.08.23-06.15.57:462][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.15.57:513][950]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2025.08.23-06.15.57:513][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2025.08.23-06.15.57:513][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2025.08.23-06.15.57:515][950]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2025.08.23-06.15.57:516][950]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_GameModeB39CEA7C4AFA0F0B7A6A89883B834E21.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/BP_GameMode.uasset'
+[2025.08.23-06.15.57:523][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.716 ms (total: 1.77 sec)
+[2025.08.23-06.15.57:578][950]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.15.57:578][950]LogContentValidation: Enabled validators:
+[2025.08.23-06.15.57:578][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.15.57:578][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.15.57:578][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.15.57:578][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.15.57:578][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.15.57:578][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.15.57:579][950]AssetCheck: /Game/Blueprints/BP_GameMode 에셋 유효성 검사 중
+[2025.08.23-06.16.16:611][ 53]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.08.23-06.16.16:611][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.23-06.16.16:665][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.08.23-06.17.25:946][966]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.08.23-06.17.25:950][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.23-06.17.25:950][966]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Stage_1
+[2025.08.23-06.17.25:952][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001707s)
+[2025.08.23-06.17.25:952][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Stage_1.Stage_1 to /Game/Levels/UEDPIE_0_Stage_1.Stage_1 (0.001746s)
+[2025.08.23-06.17.25:977][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.08.23-06.17.25:980][966]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage_1
+[2025.08.23-06.17.25:981][966]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2025.08.23-06.17.25:982][966]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.08.23-06.17.25:982][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.23-06.17.25:982][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.23-06.17.25:982][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.23-06.17.25:982][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.23-06.17.25:982][966]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.23-06.17.25:982][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.23-06.17.25:982][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.23-06.17.25:982][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.23-06.17.25:982][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.23-06.17.25:982][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.23-06.17.25:982][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.23-06.17.25:986][966]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.23-06.17.26:012][966]LogAudioMixer: Display: Using Audio Hardware Device EPSON PJ(NVIDIA High Definition Audio)
+[2025.08.23-06.17.26:013][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.23-06.17.26:013][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.23-06.17.26:013][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.23-06.17.26:014][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.08.23-06.17.26:014][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.08.23-06.17.26:016][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.08.23-06.17.26:016][966]LogInit: FAudioDevice initialized with ID 3.
+[2025.08.23-06.17.26:016][966]LogAudio: Display: Audio Device (ID: 3) registered with world 'Stage_1'.
+[2025.08.23-06.17.26:016][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.08.23-06.17.26:016][966]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.23-06.17.26:018][966]LogLoad: Game class is 'BP_GameMode_C'
+[2025.08.23-06.17.26:020][966]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Stage_1.Stage_1 up for play (max tick rate 0) at 2025.08.23-15.17.26
+[2025.08.23-06.17.26:020][966]LogWorld: Bringing up level for play took: 0.000713
+[2025.08.23-06.17.26:022][966]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.08.23-06.17.26:037][966]PIE: 서버가 로그인했습니다.
+[2025.08.23-06.17.26:038][966]PIE: 에디터에서 플레이 총 시작 시간 0.088초입니다.
+[2025.08.23-06.18.05:353][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.23-06.18.05:353][117]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Stage_1
+[2025.08.23-06.18.05:354][117]LogWorld: UWorld::CleanupWorld for Stage_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.23-06.18.05:354][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.23-06.18.05:359][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.23-06.18.05:364][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.23-06.18.05:389][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.23-06.18.05:390][117]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.23-06.18.05:390][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.23-06.18.05:393][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.23-06.18.05:406][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.08.23-06.18.05:442][118]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.08.23-06.18.33:611][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.18.33:683][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Stage_1" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Levels/Stage_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.23-06.18.33:712][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.23-06.18.33:718][658]LogSavePackage: Moving output files for package: /Game/Levels/Stage_1
+[2025.08.23-06.18.33:718][658]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/Stage_18C48BB5546E7FCBC46E2868D252D810E.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Levels/Stage_1.umap'
+[2025.08.23-06.18.33:726][658]LogFileHelpers: Saving map 'Stage_1' took 0.043
+[2025.08.23-06.18.33:735][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.221 ms (total: 1.89 sec)
+[2025.08.23-06.18.33:796][658]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.18.33:796][658]LogContentValidation: Enabled validators:
+[2025.08.23-06.18.33:796][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.18.33:796][658]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.18.33:796][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.18.33:796][658]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.18.33:796][658]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.18.33:796][658]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.18.33:796][658]AssetCheck: /Game/Levels/Stage_1 에셋 유효성 검사 중
+[2025.08.23-06.18.46:238][459]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.08.23-06.18.46:248][459]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.08.23-06.18.46:263][460]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.08.23-06.18.49:119][650]LogContentBrowser: Attempting asset rename: 새 폴더 -> Inputs
+[2025.08.23-06.18.49:120][650]LogContentBrowser: End creating deferred item 새 폴더
+[2025.08.23-06.19.41:557][  2]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.08.23-06.19.41:566][  2]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.08.23-06.19.41:596][  4]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.08.23-06.19.44:464][195]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Player
+[2025.08.23-06.19.44:465][195]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.08.23-06.20.16:071][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.20.16:145][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inputs/IMC_Player] ([1] browsable assets)...
+[2025.08.23-06.20.16:145][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inputs/IMC_Player]
+[2025.08.23-06.20.16:145][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inputs/IMC_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IMC_Player.uasset" SILENT=true
+[2025.08.23-06.20.16:145][221]LogSavePackage: Moving output files for package: /Game/Blueprints/Inputs/IMC_Player
+[2025.08.23-06.20.16:146][221]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/IMC_Player831E01774D3D63AAE177F4821EC777E8.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IMC_Player.uasset'
+[2025.08.23-06.20.16:155][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.435 ms (total: 1.97 sec)
+[2025.08.23-06.20.16:210][221]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.20.16:210][221]LogContentValidation: Enabled validators:
+[2025.08.23-06.20.16:210][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.20.16:210][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.20.16:210][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.20.16:210][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.20.16:210][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.20.16:210][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.20.16:210][221]AssetCheck: /Game/Blueprints/Inputs/IMC_Player 에셋 유효성 검사 중
+[2025.08.23-06.20.27:424][931]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.08.23-06.20.27:433][931]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.08.23-06.20.27:451][932]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.08.23-06.20.31:625][210]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2025.08.23-06.20.31:626][210]LogContentBrowser: End creating deferred item NewInputAction
+[2025.08.23-06.20.36:233][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.20.36:309][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inputs/IA_Move] ([1] browsable assets)...
+[2025.08.23-06.20.36:309][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inputs/IA_Move]
+[2025.08.23-06.20.36:309][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inputs/IA_Move" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IA_Move.uasset" SILENT=true
+[2025.08.23-06.20.36:310][510]LogSavePackage: Moving output files for package: /Game/Blueprints/Inputs/IA_Move
+[2025.08.23-06.20.36:310][510]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/IA_Move0DDE0BB14C5318EF74FCB6AB2054A8B7.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IA_Move.uasset'
+[2025.08.23-06.20.36:319][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.087 ms (total: 2.06 sec)
+[2025.08.23-06.20.36:375][510]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.20.36:375][510]LogContentValidation: Enabled validators:
+[2025.08.23-06.20.36:375][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.20.36:375][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.20.36:375][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.20.36:375][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.20.36:375][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.20.36:375][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.20.36:375][510]AssetCheck: /Game/Blueprints/Inputs/IA_Move 에셋 유효성 검사 중
+[2025.08.23-06.20.49:968][352]LogContentBrowser: Attempting asset rename: IA_Move1 -> IA_Jump
+[2025.08.23-06.20.50:245][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.20.50:245][352]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inputs/IA_Jump] ([1] browsable assets)...
+[2025.08.23-06.20.50:245][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inputs/IA_Jump]
+[2025.08.23-06.20.50:245][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inputs/IA_Jump" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IA_Jump.uasset" SILENT=true
+[2025.08.23-06.20.50:245][352]LogSavePackage: Moving output files for package: /Game/Blueprints/Inputs/IA_Jump
+[2025.08.23-06.20.50:246][352]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/IA_JumpDE5617CD471961743CCAE39DCF183D78.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IA_Jump.uasset'
+[2025.08.23-06.20.50:247][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.196 ms (total: 2.06 sec)
+[2025.08.23-06.20.50:293][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.08.23-06.20.50:318][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.08.23-06.20.50:335][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.08.23-06.20.50:391][352]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.20.50:391][352]LogContentValidation: Enabled validators:
+[2025.08.23-06.20.50:391][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.20.50:391][352]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.20.50:391][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.20.50:391][352]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.20.50:391][352]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.20.50:391][352]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.20.50:391][352]AssetCheck: /Game/Blueprints/Inputs/IA_Jump 에셋 유효성 검사 중
+[2025.08.23-06.20.56:166][719]LogContentBrowser: Attempting asset rename: IA_Move2 -> IA_Look
+[2025.08.23-06.20.56:262][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.20.56:262][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inputs/IA_Look] ([1] browsable assets)...
+[2025.08.23-06.20.56:262][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inputs/IA_Look]
+[2025.08.23-06.20.56:262][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inputs/IA_Look" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IA_Look.uasset" SILENT=true
+[2025.08.23-06.20.56:263][719]LogSavePackage: Moving output files for package: /Game/Blueprints/Inputs/IA_Look
+[2025.08.23-06.20.56:263][719]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/IA_LookE4F30D8A48394288CBCAFDA24FB6E1FA.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IA_Look.uasset'
+[2025.08.23-06.20.56:266][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.932 ms (total: 2.06 sec)
+[2025.08.23-06.20.56:305][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.08.23-06.20.56:329][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.23-06.20.56:356][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.23-06.20.56:429][719]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.20.56:429][719]LogContentValidation: Enabled validators:
+[2025.08.23-06.20.56:429][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.20.56:429][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.20.56:429][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.20.56:429][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.20.56:429][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.20.56:429][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.20.56:430][719]AssetCheck: /Game/Blueprints/Inputs/IA_Look 에셋 유효성 검사 중
+[2025.08.23-06.21.07:940][462]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.23-06.31.14:303][416]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/Inputs/IMC_Player.IMC_Player
+[2025.08.23-06.31.25:726][400]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Inputs/IA_Move.IA_Move
+[2025.08.23-06.36.44:285][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.36.44:335][277]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inputs/IA_Move] ([1] browsable assets)...
+[2025.08.23-06.36.44:335][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inputs/IA_Move]
+[2025.08.23-06.36.44:335][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inputs/IA_Move" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IA_Move.uasset" SILENT=true
+[2025.08.23-06.36.44:336][277]LogSavePackage: Moving output files for package: /Game/Blueprints/Inputs/IA_Move
+[2025.08.23-06.36.44:336][277]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/IA_MoveEA7ED054494DC23DC0934198D7213A40.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IA_Move.uasset'
+[2025.08.23-06.36.44:343][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.698 ms (total: 2.12 sec)
+[2025.08.23-06.36.44:383][277]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.36.44:383][277]LogContentValidation: Enabled validators:
+[2025.08.23-06.36.44:383][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.36.44:383][277]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.36.44:383][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.36.44:383][277]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.36.44:383][277]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.36.44:383][277]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.36.44:383][277]AssetCheck: /Game/Blueprints/Inputs/IA_Move 에셋 유효성 검사 중
+[2025.08.23-06.36.44:790][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.08.23-06.36.55:707][330]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Inputs/IA_Look.IA_Look
+[2025.08.23-06.37.32:827][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.37.32:884][744]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inputs/IA_Look] ([1] browsable assets)...
+[2025.08.23-06.37.32:884][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inputs/IA_Look]
+[2025.08.23-06.37.32:884][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inputs/IA_Look" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IA_Look.uasset" SILENT=true
+[2025.08.23-06.37.32:885][744]LogSavePackage: Moving output files for package: /Game/Blueprints/Inputs/IA_Look
+[2025.08.23-06.37.32:885][744]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/IA_LookC7E4B5034950B9BFFEEBD7AC222548C1.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IA_Look.uasset'
+[2025.08.23-06.37.32:892][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.752 ms (total: 2.19 sec)
+[2025.08.23-06.37.32:948][744]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.37.32:949][744]LogContentValidation: Enabled validators:
+[2025.08.23-06.37.32:949][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.37.32:949][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.37.32:949][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.37.32:949][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.37.32:949][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.37.32:949][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.37.32:949][744]AssetCheck: /Game/Blueprints/Inputs/IA_Look 에셋 유효성 검사 중
+[2025.08.23-06.37.35:032][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.08.23-06.37.37:672][188]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Inputs/IA_Jump.IA_Jump
+[2025.08.23-06.38.31:635][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.08.23-06.38.31:639][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.38.31:702][628]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inputs/IMC_Player] ([1] browsable assets)...
+[2025.08.23-06.38.31:702][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inputs/IMC_Player]
+[2025.08.23-06.38.31:702][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inputs/IMC_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IMC_Player.uasset" SILENT=true
+[2025.08.23-06.38.31:703][628]LogSavePackage: Moving output files for package: /Game/Blueprints/Inputs/IMC_Player
+[2025.08.23-06.38.31:703][628]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/IMC_Player79C54A874B2752A6B8B0FC8029B49E0E.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IMC_Player.uasset'
+[2025.08.23-06.38.31:710][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.986 ms (total: 2.26 sec)
+[2025.08.23-06.38.31:748][628]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.38.31:748][628]LogContentValidation: Enabled validators:
+[2025.08.23-06.38.31:748][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.38.31:748][628]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.38.31:748][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.38.31:748][628]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.38.31:748][628]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.38.31:748][628]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.38.31:749][628]AssetCheck: /Game/Blueprints/Inputs/IMC_Player 에셋 유효성 검사 중
+[2025.08.23-06.38.31:749][628]AssetCheck: Error: [AssetLog] C:\Users\User\Desktop\UE_250719\Platfomer\Content\Blueprints\Inputs\IMC_Player.uasset: 매핑은 비어 있는 입력 액션을 가질 수 없습니다.
+[2025.08.23-06.38.33:291][753]LogSlate: Window '메시지 로그' being destroyed
+[2025.08.23-06.38.33:296][753]LogSlate: Window '메시지 로그' being destroyed
+[2025.08.23-06.39.35:570][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.08.23-06.39.35:573][122]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Stage_1' took 0.020
+[2025.08.23-06.39.35:573][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inputs/IMC_Player] ([1] browsable assets)...
+[2025.08.23-06.39.35:573][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inputs/IMC_Player]
+[2025.08.23-06.39.35:573][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inputs/IMC_Player_Auto2
+[2025.08.23-06.39.35:573][122]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/IMC_Player_Auto29E0A099346A65D5E39A88E88B70718B8.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/Autosaves/Game/Blueprints/Inputs/IMC_Player_Auto2.uasset'
+[2025.08.23-06.39.35:574][122]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.08.23-06.39.45:857][316]LogEditCondition: Error: EnhancedActionKeyMapping - EditCondition이 유효하지 않은 \'SettingBehavior\' 피연산자를 사용하려 했습니다(값 오류).
+[2025.08.23-06.48.10:105][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.48.10:166][217]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inputs/IMC_Player] ([1] browsable assets)...
+[2025.08.23-06.48.10:166][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inputs/IMC_Player]
+[2025.08.23-06.48.10:166][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inputs/IMC_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IMC_Player.uasset" SILENT=true
+[2025.08.23-06.48.10:167][217]LogSavePackage: Moving output files for package: /Game/Blueprints/Inputs/IMC_Player
+[2025.08.23-06.48.10:167][217]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/IMC_Player2B2391DD481F351FA5C244B934BEF61D.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IMC_Player.uasset'
+[2025.08.23-06.48.10:172][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.344 ms (total: 2.33 sec)
+[2025.08.23-06.48.10:229][217]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.48.10:229][217]LogContentValidation: Enabled validators:
+[2025.08.23-06.48.10:229][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.48.10:229][217]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.48.10:229][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.48.10:229][217]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.48.10:229][217]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.48.10:229][217]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.48.10:230][217]AssetCheck: /Game/Blueprints/Inputs/IMC_Player 에셋 유효성 검사 중
+[2025.08.23-06.48.10:412][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.23-06.48.10:465][230]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inputs/IMC_Player] ([1] browsable assets)...
+[2025.08.23-06.48.10:465][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inputs/IMC_Player]
+[2025.08.23-06.48.10:465][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inputs/IMC_Player" FILE="../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IMC_Player.uasset" SILENT=true
+[2025.08.23-06.48.10:466][230]LogSavePackage: Moving output files for package: /Game/Blueprints/Inputs/IMC_Player
+[2025.08.23-06.48.10:467][230]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/IMC_Player8377B5BD4BB12319AC582493810E4EF0.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Content/Blueprints/Inputs/IMC_Player.uasset'
+[2025.08.23-06.48.10:475][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.761 ms (total: 2.39 sec)
+[2025.08.23-06.48.10:529][230]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.23-06.48.10:529][230]LogContentValidation: Enabled validators:
+[2025.08.23-06.48.10:529][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.23-06.48.10:529][230]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.23-06.48.10:529][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.23-06.48.10:529][230]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.23-06.48.10:529][230]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.23-06.48.10:529][230]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.23-06.48.10:530][230]AssetCheck: /Game/Blueprints/Inputs/IMC_Player 에셋 유효성 검사 중
+[2025.08.23-06.48.12:057][411]LogSlate: Window '메시지 로그' being destroyed
+[2025.08.23-06.48.12:061][411]LogSlate: Window '메시지 로그' being destroyed
+[2025.08.23-06.48.26:779][ 72]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.08.23-06.51.05:033][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.08.23-06.51.05:034][203]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Stage_1' took 0.023
+[2025.08.23-06.51.05:035][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.08.23-06.51.05:123][203]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.08.23-06.51.05:123][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.08.23-06.51.05:127][203]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Player_Auto3
+[2025.08.23-06.51.05:127][203]LogSavePackage: Moving '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/BP_Player_Auto3F946A861478560458C3425AA04C5968E.tmp' to '../../../../../../Users/User/Desktop/UE_250719/Platfomer/Saved/Autosaves/Game/Blueprints/BP_Player_Auto3.uasset'
+[2025.08.23-06.51.05:127][203]LogFileHelpers: Auto-saving content packages took 0.093
